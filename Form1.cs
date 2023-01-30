@@ -30,19 +30,19 @@ namespace lab04
             this.tbtotal.Text = newTotalAge.ToString();
             this.classroom.addPerson2Class(person);
             this.listname.Text =
-                classroom.showAllPersononClass();
+                classroom.showPersonon();
             tbtotal.Text =
-                classroom.SumAllYearClass();
+                classroom.SumYear();
             gpaavg.Text =
-                classroom.avgMaxGPA();
+                classroom.GPAavg();
             gpamax.Text =
                 classroom.MaxGPA();
             gpamin.Text =
                 classroom.MinGPA();
             textBox1.Text =
-                classroom.maxGPAName();
+                classroom.HightGPAname();
             textBox2.Text =
-                classroom.minGPAName();
+                classroom.LessGPAname();
         }
 
         private void textBox3_TextChanged(object sender, EventArgs e)

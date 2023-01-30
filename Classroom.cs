@@ -36,7 +36,7 @@ namespace lab04
         {
             person.Add(y);
         }
-        public string showAllPersononClass()
+        public string showPersonon()
         {
             string result = "";
             foreach (Person p in person)
@@ -49,7 +49,7 @@ namespace lab04
         {
             person.Add(y);
         }
-        public string SumAllYearClass()
+        public string SumYear()
         {
             int year = 0;
             foreach (Person y in person)
@@ -64,7 +64,7 @@ namespace lab04
         {
             person.Add(g);
         }
-        public string avgMaxGPA()
+        public string GPAavg()
         {
             double totalGPA = 0;
             int count = 0;
@@ -114,7 +114,7 @@ namespace lab04
             }
             return minGPA.ToString();
         }
-        public string minGPAName()
+        public string LessGPAname()
         {
             double totalGPA = 0;
             int count = 0;
@@ -133,7 +133,7 @@ namespace lab04
             }
             return name;
         }
-        public string maxGPAName()
+        public string HightGPAname()
         {
             double totalGPA = 0;
             int count = 0;
