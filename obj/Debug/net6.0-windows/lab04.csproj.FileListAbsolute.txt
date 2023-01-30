@@ -1,0 +1,17 @@
+D:\source\lab04\lab04\bin\Debug\net6.0-windows\lab04.exe
+D:\source\lab04\lab04\bin\Debug\net6.0-windows\lab04.deps.json
+D:\source\lab04\lab04\bin\Debug\net6.0-windows\lab04.runtimeconfig.json
+D:\source\lab04\lab04\bin\Debug\net6.0-windows\lab04.dll
+D:\source\lab04\lab04\bin\Debug\net6.0-windows\lab04.pdb
+D:\source\lab04\lab04\obj\Debug\net6.0-windows\lab04.csproj.AssemblyReference.cache
+D:\source\lab04\lab04\obj\Debug\net6.0-windows\lab04.Form1.resources
+D:\source\lab04\lab04\obj\Debug\net6.0-windows\lab04.csproj.GenerateResource.cache
+D:\source\lab04\lab04\obj\Debug\net6.0-windows\lab04.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\lab04\lab04\obj\Debug\net6.0-windows\lab04.AssemblyInfoInputs.cache
+D:\source\lab04\lab04\obj\Debug\net6.0-windows\lab04.AssemblyInfo.cs
+D:\source\lab04\lab04\obj\Debug\net6.0-windows\lab04.csproj.CoreCompileInputs.cache
+D:\source\lab04\lab04\obj\Debug\net6.0-windows\lab04.dll
+D:\source\lab04\lab04\obj\Debug\net6.0-windows\refint\lab04.dll
+D:\source\lab04\lab04\obj\Debug\net6.0-windows\lab04.pdb
+D:\source\lab04\lab04\obj\Debug\net6.0-windows\lab04.genruntimeconfig.cache
+D:\source\lab04\lab04\obj\Debug\net6.0-windows\ref\lab04.dll
